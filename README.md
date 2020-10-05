@@ -1,1 +1,2 @@
 # D3-challenge
+Code that creates an animated scatter plot that displays information on poverty rates, health care, smoking, and median age per state with D3. The scatter plot allows the user to chose the x and y-axis and automatically adjusts the axis and points based on the selected axis.
